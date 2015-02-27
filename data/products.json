@@ -1,0 +1,34 @@
+[
+	{
+		"id": "SkuM",
+		"name": "Skummetmælk",
+		"price": 6,
+		"img":"http://www.arla.dk/Global/arladk/produkter/brands/Arla-24/produkter/arla-24-skummetmaelk-large.png",
+		"category":"Økologisk",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+	},
+	{
+		"id": "MinM",
+		"name": "Minimælk",
+		"price": 6.50,
+		"img":"http://www.arla.dk/Global/arladk/produkter/brands/Arla-24/produkter/arla-24-minimaelk-large.png",
+		"category":"24",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+	},
+	{
+		"id": "LetM",
+		"name": "Letmælk",
+		"price": 6,
+		"img":"http://www.arla.dk/Global/arladk/produkter/brands/Arla-24/produkter/arla-24-letmaelk-large.png",
+		"category":"24",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+	},
+	{
+		"id": "SodM",
+		"name": "Sødmælk",
+		"price": 7,
+		"img":"http://www.arla.dk/Global/arladk/produkter/brands/Arla-24/produkter/arla-24-soedmaelk-large.png",
+		"category":"Laktosefri",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+	}
+]
